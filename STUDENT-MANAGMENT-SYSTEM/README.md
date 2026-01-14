@@ -17,20 +17,7 @@ Perfect for portfolio, GitHub, and showcasing your skills for university admissi
 - Display total number of students  
 - Responsive and clean design with modern UI  
 
----
 
-## 🖼 Screenshots
-
-![Dashboard](screenshots/dashboard.png)  
-*Main dashboard with all students listed*
-
-![Add Student](screenshots/add_student.png)  
-*Form to add new students*
-
-![Edit Student](screenshots/edit_student.png)  
-*Edit existing student details*
-
----
 
 ## 💻 Installation & Setup
 
@@ -94,5 +81,6 @@ Export student list to CSV using Export CSV link
 
 📌 License
 This project is free to use for educational purposes.
+
 
 
