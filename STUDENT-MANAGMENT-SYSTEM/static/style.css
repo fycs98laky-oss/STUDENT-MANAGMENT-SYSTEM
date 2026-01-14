@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; background: #f2f2f2; padding: 20px; }
+h1 { color: #333; }
+form, .search-sort { 
+    margin-bottom: 20px; 
+    background: #fff; 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.1); 
+}
+input, select { padding: 10px; margin-right: 10px; margin-bottom: 10px; width: 100%; max-width: 200px; }
+button { padding: 10px 15px; background: #007BFF; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
+button:hover { background: #0056b3; }
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; }
+th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: left; }
+th { background: #007BFF; color: white; }
+a { color: #007BFF; text-decoration: none; }
+a:hover { text-decoration: underline; }
